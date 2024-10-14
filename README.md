@@ -108,20 +108,3 @@
 </p>
 
 
-<br>
-
- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
-</p>
-
-
-
-Contributions are always welcome!
-Please read the [contribution guidelines](CONTRIBUTING.md) first.
-
-## License
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-
-
