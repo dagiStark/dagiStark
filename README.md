@@ -77,7 +77,7 @@ Hi am Dagim Gelaneh, currently am working on full stack web development and mobi
 
 
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=dagiStark&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/dagiStark)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=dagiStark&data=repositories,commits&theme=viridescent)](https://github.com/dagiStark)
 <!-- <h3 align ="center"> <strong> Let`s Code.Build & FUN </strong> </h3>  -->
 <div align="left" width="100%" height="100%">
  
@@ -88,12 +88,11 @@ Hi am Dagim Gelaneh, currently am working on full stack web development and mobi
 
 
 
-<h4 style="font-size : 20px;">👋 Hello! I'm Yeabsra , a web and mobile developer from Ethiopia. I taught myself how to build websites and apps. I enjoy using technology to solve problems and bring ideas to life. I'm good at paying attention to small details and finding solutions when things get tough. When I'm not coding, I'm always learning something new. Let's connect and work together to make cool stuff happen!!<h4>
+<h4 style="font-size : 20px;">👋 Hello! I'm Dagim , a web and mobile developer from Ethiopia. I taught myself how to build websites and apps. I enjoy using technology to solve problems and bring ideas to life. I'm good at paying attention to small details and finding solutions when things get tough. When I'm not coding, I'm always learning something new. Let's connect and work together to make cool stuff happen!!<h4>
 
  <table align="center" width="100%" height="100%" >
    <tr>
      <td> 
-  
 ![Github stats](https://github-readme-stats.vercel.app/api?username=yeabnoah&theme=radical&show_icons=true&count_private=true&hide=issues) </td>
      <td> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeabnoah&theme=radical&layout=compact)](https://github.com/yeabnoah) </td>
    </tr>
