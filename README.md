@@ -10,7 +10,7 @@
 
 
 
-<h4 style="font-size : 20px;">👋 Hello! I'm Dagim , a web and mobile developer. I am dedicated to crafting cutting-edge full-stack solutions, demonstrating a firm grasp of technologies like Next.js, Node.js, React and React Native. My commitment to continuous learning is fueled by my ongoing education and the dynamic tech environment, driving me towards creating software that truly makes a difference.<h4>
+<h4 style="font-size : 20px;">👋 Hello! I'm Dagim , a web and mobile app developer. I am dedicated to crafting cutting-edge full-stack solutions, demonstrating a firm grasp of technologies like Next.js, Node.js, React and React Native. My commitment to continuous learning is fueled by my ongoing education and the dynamic tech environment, driving me towards creating software that truly makes a difference.<h4>
 
   
 
