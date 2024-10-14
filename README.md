@@ -15,7 +15,7 @@
   
 
   
-<h2> some of the technologies I work with ❤️</h2>
+<h2> Some of the technologies I work with </h2>
 
 <h4> programming languages</h4>
  
