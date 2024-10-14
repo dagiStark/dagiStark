@@ -3,7 +3,7 @@
 <!-- <h3 align ="center"> <strong> Let`s Code.Build & FUN </strong> </h3>  -->
 <div align="left" width="100%" height="100%">
  
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/dagi-gelaneh-978509296/])
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dagi-gelaneh-978509296/)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff&style=for-the-badge)](mailto:dagigelaneh26@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-%231877F2.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/dagi_gel)
 </div>
