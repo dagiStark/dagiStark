@@ -44,12 +44,6 @@
        <img alt="React" height=64px src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
       </td>
       <td align="center">
-       <img alt="Expo" height=64px src="https://cdn.worldvectorlogo.com/logos/expo-1.svg">
-      </td> 
-      <td>
-        <img alt="React Native" height=64px src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg">
-      </td>
-      <td align="center">
        <img alt="Tailwind" height=64px src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg">
       </td>
       <td align="center">
